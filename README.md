@@ -1,4 +1,6 @@
 # cafeteria
 Meu site de cafeteria online
 
-Desenvolvedor: Izabelly Coser Guindani
+Desenvolvedores: 
+-Izabelly Coser Guindani
+-Maria Eduarda Kazlowski
